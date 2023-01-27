@@ -1,0 +1,12 @@
+.DS_Store
+venv/
+.env
+__pycache__/
+
+scratch.py
+
+data/*
+!data/.gitkeep
+!data/temp/
+data/temp/*
+!data/temp/.gitkeep
